@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">App.SensorTool</string>
+    <string name="app_name_update">采集助手</string>
+</resources>

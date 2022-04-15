@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\activity recognition\Android_Studio_Tut_6_Accelerometer-master\app\build\intermediates\exploded-aar\com.mcxiaoke.volley\library-aar\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="D:\activity recognition\Android_Studio_Tut_6_Accelerometer-master\app\build\intermediates\pre-dexed\debug\classes-e728a09e60eccaa8c11e82c4954ac88fccecfdd9.jar" />
+    </item>
+
+</items>

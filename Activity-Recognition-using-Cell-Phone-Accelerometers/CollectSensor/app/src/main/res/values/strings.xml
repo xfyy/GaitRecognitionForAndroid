@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CollectSensor</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="acc_x_label">Acc X</string>
+    <string name="acc_y_label">Acc Y</string>
+    <string name="acc_z_label">Acc Z</string>
+    <string name="gyro_x_label">Gyro X</string><string name="gyro_y_label">Gyro Y</string><string name="gyro_z_label">Gyro Z</string>
+    <string name="grav_x_label">Gravity X</string><string name="grav_y_label">Gravity Y</string><string name="grav_z_label">Gravity Z</string><string name="linacc_x_label">Linear Acc X</string><string name="linacc_y_label">Linear Acc Y</string><string name="linacc_z_label">Linear Acc Z</string><string name="rotvec_x_label">Rotation Vector X</string><string name="rotvec_y_label">Rotation Vector Y</string><string name="rotvec_z_label">Rotation Vector Z</string>
+    <string-array name="activities_array">
+        <item>Still</item>
+        <item>Walking</item>
+        <item>Running</item>
+    </string-array>
+    <string name="btn_start">Start</string>
+    <string name="time_default">00:00</string>
+</resources>
